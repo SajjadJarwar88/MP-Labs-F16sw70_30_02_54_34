@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab4Task5</string>
+    <string-array name="android_version">
+        <item> My Name is</item>
+        <item> Sajjad Jarwar</item>
+        <item>Group Hawal program</item>
+        <item>Show Your Identity</item>
+        <item>Student of</item>
+        <item>Software Engineering</item>
+        <item>Nationality</item>
+        <item>Pakistani</item>
+        <item>University</item>
+        <item>Name is</item>
+        <item>Muet</item>
+        <item>pakistan</item>
+
+    </string-array>
+</resources>
